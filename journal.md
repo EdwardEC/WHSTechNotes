@@ -4,3 +4,8 @@ The aspects of that game that make it enjoyable or successful are gameplay, desi
 
 # September 9, 2024
 
+To make it work you can could give people a ticket for finishing it
+
+# September 19, 2024
+
+This is a free week.
