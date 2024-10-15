@@ -17,3 +17,13 @@ Following instructions exactly as they are given is important when learning how 
 # September 30, 2024
 
 Computer science influences every day of my life. Since I'm studying technology related subject it's used in many difference ways like doing an assignment, using this github, and using a ti nspire calc.
+
+# October 10, 2024
+
+1. Job Title: Machine Learning Engineer.
+2. Job Description: Machine Learning Engineers design, build, and deploy machine learning models and systems that enable computers to perform tasks without explicit programming.
+3. Skills Required: Programming Languages: Python, R, and sometimes Java, C++, or Julia. Machine Learning Libraries and Frameworks: TensorFlow, PyTorch, scikit-learn, Keras. Data Handling Tools: SQL, Pandas, NumPy.
+Mathematics and Statistics: Strong foundation in linear algebra, calculus, probability, and statistics.
+4. Education and Experience: Education: A bachelor's degree in computer science, data science, statistics, mathematics, or a related field is typically required. Some roles may require a master’s degree, especially for research-focused positions. Experience: Entry-level positions may accept candidates with internship experience and personal projects. However, more senior roles often require 2-5 years of hands-on experience in machine learning, data analysis, and software development.
+5. Career Growth: Machine Learning Engineers have strong career growth opportunities due to the increasing demand for AI-driven solutions. Specialization: You can specialize in specific areas like Natural Language Processing (NLP), Computer Vision, or Reinforcement Learning. Advanced Research: You can pursue a Ph.D. and transition into research-focused roles or work in academia.
+6. Reflection: This career aligns well with the core interests and goals in computer science, particularly in AI, data analysis, and problem-solving. With a strong foundation in programming and mathematics, this field offers immense opportunities for innovation and long-term career growth.
