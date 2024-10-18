@@ -27,3 +27,9 @@ Mathematics and Statistics: Strong foundation in linear algebra, calculus, proba
 4. Education and Experience: Education: A bachelor's degree in computer science, data science, statistics, mathematics, or a related field is typically required. Some roles may require a master’s degree, especially for research-focused positions. Experience: Entry-level positions may accept candidates with internship experience and personal projects. However, more senior roles often require 2-5 years of hands-on experience in machine learning, data analysis, and software development.
 5. Career Growth: Machine Learning Engineers have strong career growth opportunities due to the increasing demand for AI-driven solutions. Specialization: You can specialize in specific areas like Natural Language Processing (NLP), Computer Vision, or Reinforcement Learning. Advanced Research: You can pursue a Ph.D. and transition into research-focused roles or work in academia.
 6. Reflection: This career aligns well with the core interests and goals in computer science, particularly in AI, data analysis, and problem-solving. With a strong foundation in programming and mathematics, this field offers immense opportunities for innovation and long-term career growth.
+
+# October 16, 2024
+
+1. Coding can improve problem-solving skils
+2. 2
+3. 3
