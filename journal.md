@@ -30,6 +30,12 @@ Mathematics and Statistics: Strong foundation in linear algebra, calculus, proba
 
 # October 16, 2024
 
-1. Coding can improve problem-solving skils
-2. 2
-3. 3
+1. Coding can improve problem-solving skils since coding is mainly about finding the solution to problem.
+2. Coding can enhance problem-solving skills which is used everywhere whether it's technology involved or not.
+3. Since coding require some creativity to solve problems or make stuff it can enhance creativity.
+
+# October 21, 2024
+
+Pros: AI can be helpful in many ways. It can reduce
+
+Cons:
