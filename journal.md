@@ -39,3 +39,7 @@ Mathematics and Statistics: Strong foundation in linear algebra, calculus, proba
 Pros: AI can be helpful in many ways. It can reduce
 
 Cons:
+
+# October 28, 2024
+
+AI
