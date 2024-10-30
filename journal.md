@@ -36,10 +36,20 @@ Mathematics and Statistics: Strong foundation in linear algebra, calculus, proba
 
 # October 21, 2024
 
-Pros: AI can be helpful in many ways. It can reduce
+Pros:
+-Efficiency and Productivity: AI can automate repetitive tasks, leading to increased efficiency and productivity in various industries.
+-Data Analysis: AI can analyze large datasets quickly, providing insights that can drive better decision-making.
+-Personalization: AI enables personalized experiences in fields like marketing, healthcare, and customer service.
 
 Cons:
+-Job Displacement: Automation can lead to job losses in certain sectors, causing economic and social challenges.
+-Bias and Fairness: AI systems can perpetuate or exacerbate existing biases if not designed carefully.
+-Privacy Concerns: The use of AI in data collection raises significant privacy issues.
 
 # October 28, 2024
 
-AI
+Positive Impact: improved voter access and engagement
+eg. Online voter registration and information systems
+
+Challenge: security vulnerabilities
+eg. Cybersecurity threats to voting systems
