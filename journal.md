@@ -55,7 +55,7 @@ Challenge: security vulnerabilities
 eg. Cybersecurity threats to voting systems
 
 # November 4, 2024
-
+Protecting personal and sensitive information online is important because anything shared can be misused by others, leading to identity theft, fraud, or damage to your reputation. To keep your data secure, you should use privacy settings on platforms like GitHub and social media, make repositories private, and be careful about what you share. It's also essential to use strong passwords, enable two-factor authentication, and avoid oversharing personal details. Reflecting on my own experiences, I’ve learned to be more mindful of what I post to avoid sharing too much. While it's important to collaborate and be open online, maintaining privacy is key to protecting both personal and professional interests.
 # November 12, 2024
 
 # November 18, 2024
