@@ -53,3 +53,10 @@ eg. Online voter registration and information systems
 
 Challenge: security vulnerabilities
 eg. Cybersecurity threats to voting systems
+
+# November 4, 2024
+
+# November 12, 2024
+
+# November 18, 2024
+
