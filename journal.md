@@ -63,3 +63,4 @@ A current event is the growing use of AI tools like ChatGPT in education to help
 
 # November 18, 2024
 
+Technology has made food more affordable and accessible, especially during the holiday season, by improving farming with tools like automated machines and drones and making online grocery shopping and fast deliveries possible. Cold storage and better transportation ensure fresh food is available even in winter. However, relying on technology has downsides, like fewer jobs in traditional farming and risks of supply chain problems if systems fail, such as delays caused by cyberattacks or glitches during busy times.
