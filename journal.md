@@ -65,3 +65,11 @@ A current event is the growing use of AI tools like ChatGPT in education to help
 # November 18, 2024
 
 Technology has made food more affordable and accessible, especially during the holiday season, by improving farming with tools like automated machines and drones and making online grocery shopping and fast deliveries possible. Cold storage and better transportation ensure fresh food is available even in winter. However, relying on technology has downsides, like fewer jobs in traditional farming and risks of supply chain problems if systems fail, such as delays caused by cyberattacks or glitches during busy times.
+
+# December 2, 2024
+
+One recent development in AI is its integration with quantum computing, particularly in the area of optimization problems. Quantum computing leverages the principles of quantum mechanics to perform calculations at speeds far beyond traditional computers. Recently, researchers have been using AI to improve quantum error correction, a key challenge in making quantum computers more practical. AI algorithms help optimize the vast and complex simulations necessary for quantum computing to reach its full potential, particularly in fields like cryptography, pharmaceuticals, and materials science. Quantum AI could significantly accelerate discoveries and innovations in these areas.
+
+# December 9, 2024
+
+The term “brain rot” resonates with me as a reflection of the overwhelming nature of modern digital consumption, particularly how easily it can erode our ability to focus on more enriching, deep activities. As we spend more time online, it’s easy to fall into a cycle of endless scrolling through shallow, often trivial content that may entertain us but doesn’t nourish our minds in any meaningful way. This year, I’ve noticed that, at times, my engagement with social media and other digital platforms has contributed to feelings of mental fatigue and distraction. While the internet offers convenience and connection, it also brings a constant influx of information that can feel overwhelming and ultimately leave little room for contemplation or focused, intentional learning.
