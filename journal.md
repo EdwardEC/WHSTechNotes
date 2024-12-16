@@ -73,3 +73,7 @@ One recent development in AI is its integration with quantum computing, particul
 # December 9, 2024
 
 The term “brain rot” resonates with me as a reflection of the overwhelming nature of modern digital consumption, particularly how easily it can erode our ability to focus on more enriching, deep activities. As we spend more time online, it’s easy to fall into a cycle of endless scrolling through shallow, often trivial content that may entertain us but doesn’t nourish our minds in any meaningful way. This year, I’ve noticed that, at times, my engagement with social media and other digital platforms has contributed to feelings of mental fatigue and distraction. While the internet offers convenience and connection, it also brings a constant influx of information that can feel overwhelming and ultimately leave little room for contemplation or focused, intentional learning.
+
+# December 16, 2024
+
+I'm probably going to just program calculator for UIL Mathematics and maybe study for SAT or ap physics.
