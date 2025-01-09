@@ -77,3 +77,17 @@ The term “brain rot” resonates with me as a reflection of the overwhelming n
 # December 16, 2024
 
 I'm probably going to just program calculator for UIL Mathematics and maybe study for SAT or ap physics.
+
+# January 8, 2025
+
+Looking Back:
+
+Things that I enjoyed the most is how free you are once you finish journal. Thing that could be improved is by adding some challenging problems to solve it could make the class more fun (the class is kinda boring).
+
+Looking Ahead:
+
+I would like to explore more into complex algorithms and data science.
+
+Certifications:
+
+Yes, I think giving us problems related to that certification would help me feel prepared.
