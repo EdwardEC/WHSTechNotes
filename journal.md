@@ -91,3 +91,7 @@ I would like to explore more into complex algorithms and data science.
 Certifications:
 
 Yes, I think giving us problems related to that certification would help me feel prepared.
+
+# January 13, 2025
+
+The shift in the tech industry towards prioritizing artificial intelligence (AI) skills reflects the growing impact of AI on various sectors, signaling a need for adaptability and continuous learning. While this evolution offers immense potential to enhance opportunities by automating mundane tasks and empowering workers with advanced tools, it also risks limiting opportunities for those who lack access to upskilling resources. To thrive in a rapidly changing job market, I would focus on building a strong foundation in AI and machine learning, stay updated on emerging technologies, and develop complementary skills like problem-solving, critical thinking, and effective communication. Combining technical expertise with a proactive mindset will allow me to adapt to advancements and seize opportunities in this dynamic industry.
