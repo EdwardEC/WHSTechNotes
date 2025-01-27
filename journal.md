@@ -109,9 +109,9 @@ To address security concerns while continuing to operate globally, companies lik
 
 | Name     | Car | Mistake |
 | :------- | :-- | :------ |
-| Jimmy    | Honda Civic    |         |
-| Kayla    | GMC Sierra    |         |
-| Bart     | Toyota Corolla    |         |
-| Harrison | Subaru Forester    |         |
+| Jimmy    | Honda Civic    | Drilled Hole In Gas Tank        |
+| Kayla    | GMC Sierra    | Fixed Wrong Problem        |
+| Bart     | Toyota Corolla    | Left Stains On Carpet        |
+| Harrison | Subaru Forester    | Left The Oil Cap Off        |
 
 
