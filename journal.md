@@ -111,7 +111,7 @@ To address security concerns while continuing to operate globally, companies lik
 | :------- | :-- | :------ |
 | Jimmy    | Honda Civic    |         |
 | Kayla    | GMC Sierra    |         |
-| Bart     |     |         |
-| Harrison |     |         |
+| Bart     | Toyota Corolla    |         |
+| Harrison | Subaru Forester    |         |
 
 
