@@ -107,4 +107,11 @@ To address security concerns while continuing to operate globally, companies lik
 # January 27, 2025
 
 
+    | Name     | Car | Mistake |
+    | :------- | :-- | :------ |
+    | Jimmy    | Honda Civic    |         |
+    | Kayla    | GMC Sierra    |         |
+    | Bart     |     |         |
+    | Harrison |     |         |
+
 
