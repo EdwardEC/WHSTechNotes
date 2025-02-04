@@ -114,7 +114,7 @@ To address security concerns while continuing to operate globally, companies lik
 | Bart     | Toyota Corolla    | Left Stains On Carpet        |
 | Harrison | Subaru Forester    | Left The Oil Cap Off        |
 
-# February 3, 2028
+# February 3, 2025
 
 Technology plays a critical role in aviation safety, particularly through air traffic control systems and automation. Modern air traffic control (ATC) systems use advanced computer algorithms to track and manage aircraft, reducing the risk of collisions by ensuring safe distances between planes. These systems rely on radar, GPS, and predictive modeling to monitor airspace in real time. However, when software glitches, outdated systems, or miscommunication occur, the consequences can be catastrophic. To enhance safety, integrating AI-driven automation could provide real-time collision detection and response, reducing human error and ensuring swift corrective actions in high-risk situations.  
 
