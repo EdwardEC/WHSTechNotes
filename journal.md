@@ -130,3 +130,6 @@ Another crucial aspect of aviation safety is human-computer interaction (HCI), w
 | Triangle | Purple |   4   |
 | Octagon  |  Red  |   3   |
 
+# February 18, 2025
+
+The most interesting thing I learned this week is that I'm a real person. How I found out about it? I do not know man it just poped up in my head
