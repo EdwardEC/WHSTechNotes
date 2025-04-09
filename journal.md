@@ -149,8 +149,11 @@ Moreover, social media and streaming services have transformed fan engagement, m
 # March 31, 2025
 
 How are you feeling right now—mentally, emotionally, and physically?: Feeling ok.
+
 What’s been the most stressful part of school lately?: AP Test coming up.
+
 What are some things you do (or could do) to take care of yourself during stressful times?: Play video games or hang out with friends.
+
 What’s one goal you have for the rest of the school year? How will you stay motivated to reach it? Passing all my ap tests with score of 4 or more. 
 
 # April 7, 2025
