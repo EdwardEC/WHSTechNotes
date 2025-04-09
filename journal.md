@@ -146,3 +146,15 @@ The integration of advanced technologies into March Madness has significantly ch
 
 Moreover, social media and streaming services have transformed fan engagement, making the tournament more interactive and accessible than ever before. Platforms like X (formerly Twitter) and TikTok provide real-time highlights, expert analysis, and fan reactions, creating a sense of community that extends beyond traditional TV broadcasts. Streaming services allow fans to watch games on demand, catering to a generation accustomed to personalized content consumption. However, while these advancements provide convenience and new ways to experience March Madness, they may also reduce the communal aspect of gathering around a television to watch games with friends and family. Ultimately, technology has expanded the reach and engagement of the tournament, but whether it enhances or diminishes the traditional experience depends on how fans choose to interact with it.
 
+# March 31, 2025
+
+How are you feeling right now—mentally, emotionally, and physically?: Feeling ok.
+What’s been the most stressful part of school lately?: AP Test coming up.
+What are some things you do (or could do) to take care of yourself during stressful times?: Play video games or hang out with friends.
+What’s one goal you have for the rest of the school year? How will you stay motivated to reach it? Passing all my ap tests with score of 4 or more. 
+
+# April 7, 2025
+
+AI tools can be really helpful when it comes to preparing for big tests like the STAAR. They can explain difficult concepts in a way that’s easier to understand, give practice questions, and even break down why certain answers are right or wrong. Apps like ChatGPT or Khanmigo can act like personal tutors, giving you instant feedback and letting you study at your own pace. If you’re stuck on something, you don’t have to wait for a teacher—you can get help right away, which can save a lot of time and stress.
+
+For me, the most useful feature of an AI tutor would be personalized practice questions based on what I’m struggling with. If the AI could track which topics I miss the most and then give me more practice on those areas, I think I’d improve faster. Honestly, I would use it—especially if it were easy to access and didn’t take a lot of time to set up. Sometimes studying feels overwhelming, but if an AI tool could help me stay organized and focused, I’d definitely give it a try.
