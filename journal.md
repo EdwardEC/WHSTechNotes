@@ -161,3 +161,13 @@ What’s one goal you have for the rest of the school year? How will you stay mo
 AI tools can be really helpful when it comes to preparing for big tests like the STAAR. They can explain difficult concepts in a way that’s easier to understand, give practice questions, and even break down why certain answers are right or wrong. Apps like ChatGPT or Khanmigo can act like personal tutors, giving you instant feedback and letting you study at your own pace. If you’re stuck on something, you don’t have to wait for a teacher—you can get help right away, which can save a lot of time and stress.
 
 For me, the most useful feature of an AI tutor would be personalized practice questions based on what I’m struggling with. If the AI could track which topics I miss the most and then give me more practice on those areas, I think I’d improve faster. Honestly, I would use it—especially if it were easy to access and didn’t take a lot of time to set up. Sometimes studying feels overwhelming, but if an AI tool could help me stay organized and focused, I’d definitely give it a try.
+
+# April 14, 2025
+
+Florida's recent legislation banning student cellphone use throughout the school day and restricting access to social media on school networks has sparked considerable debate. Proponents argue that these measures reduce distractions, enhance student engagement, and mitigate issues like cyberbullying and mental health concerns linked to excessive screen time. For instance, a 2023 study found a direct correlation between increased social media use and reduced academic achievement among middle schoolers citeturn0news12.
+
+However, opponents raise valid concerns about emergency communication and student autonomy. In Broward County Public Schools, nearly 20% of parents surveyed felt the cellphone ban negatively impacted their children's well-being, particularly regarding communication during emergencies citeturn0news14. While the policy allows for emergency use and teacher discretion, inconsistent enforcement and the practical need for phones in some educational circumstances highlight challenges in balancing technology use effectively.
+
+If such restrictions were implemented in my school, I would advocate for a balanced approach that acknowledges the benefits of reduced distractions while addressing the legitimate concerns of students and parents. This could include designated phone-free times and areas, coupled with education on responsible digital habits, to foster an environment that supports both learning and student well-being. 
+
+# 
