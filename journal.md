@@ -170,4 +170,10 @@ However, opponents raise valid concerns about emergency communication and studen
 
 If such restrictions were implemented in my school, I would advocate for a balanced approach that acknowledges the benefits of reduced distractions while addressing the legitimate concerns of students and parents. This could include designated phone-free times and areas, coupled with education on responsible digital habits, to foster an environment that supports both learning and student well-being. 
 
-# 
+# April 28, 2025
+
+| Name     | Flavor | Occasion | Price |
+| :------- | :----- | :------- | :---- |
+| Sally    | Chocolate       |  Graduation        | $35.00      | 
+| Michael  | Vanilla       |  Farewell Party        | $37.00      | 
+| Emma     | Carrot       | Birthday         | $39.00      | 
