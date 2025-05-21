@@ -177,3 +177,28 @@ If such restrictions were implemented in my school, I would advocate for a balan
 | Sally    | Chocolate       |  Graduation        | $35.00      | 
 | Michael  | Vanilla       |  Farewell Party        | $37.00      | 
 | Emma     | Carrot       | Birthday         | $39.00      | 
+
+# May 5, 2025
+
+Claim: I believe that 100 unarmed people could not defeat a silverback gorilla in a physical fight.
+Evidence: A fully grown silverback gorilla can weigh over 400 pounds and has up to 10 times the strength of an average adult male. Gorillas also have incredible speed, strong jaws, and thick muscle mass, which makes them incredibly hard to stop. Even if the 100 people tried to use strategy, most would likely panic, and the first wave of people would face serious injury or death.
+Reasoning: While the number might seem like an advantage, the group’s lack of training and coordination means they would likely be overwhelmed. This matters because it shows how people often underestimate nature and overestimate human ability, especially in hypothetical challenges that don’t take real-world consequences into account.
+
+Claim: I don’t think it’s responsible to make this kind of challenge go viral.
+Evidence: Although it may seem like harmless entertainment, suggesting a fight like “100 Men vs 1 Gorilla” could lead to misunderstandings about animal behavior, violence, or the idea that humans can dominate nature. It also turns a serious ethical issue—animal cruelty—into a joke.
+Reasoning: This matters because viral trends shape how people think, especially young viewers. When creators blur the line between fantasy and reality, they risk spreading misinformation. The popularity of this trend shows how quickly outrageous ideas can gain attention online. It also reveals how entertainment is often mixed with education, but not always in a healthy or accurate way.
+
+# May 12, 2025
+
+**Claim:** The “Chromebook Challenge” is not ethical and is extremely dangerous.
+**Evidence:** Inserting foreign objects like pencils into USB ports can cause electrical shorts, fires, or permanent damage to the device. This kind of behavior puts students, teachers, and school property at risk. Schools invest thousands of dollars into technology to help students learn, not to have it ruined by reckless stunts. In some cases, students have even faced disciplinary action or had to pay for repairs.
+**Reasoning:** This matters because being careless with technology shows a lack of respect for shared resources and safety. As future tech users and professionals, we should model smart, ethical behavior—especially in a school setting where others are affected by our choices.
+
+**Claim:** It’s important to explain that this trend has real-world consequences, even if someone thinks it’s “just a joke.”
+**Evidence:** Damaging a Chromebook can disrupt learning, waste taxpayer money, and even endanger lives if a fire starts. It could also lead to serious consequences like suspension or a permanent mark on a student’s record.
+**Reasoning:** Helping others understand the impact of their actions is part of being a responsible digital citizen. Technology is a powerful tool, but it must be used wisely. Trends like this may seem funny in the moment, but the damage they cause is real—and preventable.
+
+
+# May 19, 2025
+
+Yes I'm ready for summer and excited for internship
